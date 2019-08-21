@@ -1,0 +1,2 @@
+# MagIx
+Szakdolgozat/thesis
